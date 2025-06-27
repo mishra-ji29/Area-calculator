@@ -1,4 +1,4 @@
-# Area-calculator
+# Area calculator
 
 This is simple python project which I have made in my early python learning days.
 This project was built to test my  skills on python, its loops and conditions.
